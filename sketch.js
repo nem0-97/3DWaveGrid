@@ -17,10 +17,10 @@ function draw() {
   }else{*/
     normalMaterial();
   //}
-  n=Number(document.getElementById('n').value)
-  w=Number(document.getElementById('w').value)
-  h=Number(document.getElementById('h').value)
-  s=Number(document.getElementById('s').value)
+  n=Number(document.getElementById('n').value);
+  w=Number(document.getElementById('w').value);
+  h=Number(document.getElementById('h').value);
+  s=Number(document.getElementById('s').value);
   background(0);
 
   //trying to get good perspective
